@@ -1,38 +1,79 @@
-# Hello,  I'm Arnav Pratap Singh! 👋
+<h1 align="center">Hello, I'm Lakshan 👋</h1>
 
-![Cover Picture](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM25ucHp3bGNtYTN0cHd0eGc5Y2J3NTNzYzg0ZWllMDhib3o4em5nbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp)
+<h3 align="center">Software Engineer | Full Stack Developer | Sri Lanka 🇱🇰</h3>
 
-## 💫About Me :
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+Developer;Node.js+Developer;UI/UX+Lover;Open+Source+Enthusiast" />
+</p>
 
-I am a  computer engineering graduate with a solid foundation in working with Software Development , APIs, Website/Mobile App Development and Cloud.
+---
 
-My proficiency extends beyond technical expertise. I am a skilled communicator who values transparent dialogue, embracing a collaborative mindset. I recognize the pivotal role teamwork plays in realizing project success, and I am dedicated to fostering a harmonious team dynamic.
+## 🚀 About Me
 
-## Connect with Me
+- 💻 Software Engineer & Full Stack Developer  
+- 🌱 Learning Cloud, Microservices & System Design  
+- 🔭 Working on real-world scalable applications  
+- ⚡ Passionate about IoT & Web Development  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-pratap-singh-29b912282/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@TechwithRhyno) 
- 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=arnav7777&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=arnav7777&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arnav7777&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+---
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=arnav7777&theme=nord&no-frame=true&no-bg=true&margin-w=4)
+## 🌐 Connect With Me
 
-## Google Arcade
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
 
-[![Google Cloud Arcade Badge](https://i.ibb.co/gWL6LkW/fhgvnbmmnbmnbnm.png)](https://www.cloudskillsboost.google/public_profiles/0bf5d3f3-b09c-4f78-8066-061314a06ac2)
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 
-## Get in Touch
+  <a href="mailto:you@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
 
-Feel free to reach out if you'd like to collaborate on a project or just want to connect!
+  <a href="https://instagram.com/yourusername">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnavsinghp27@gmail.com)
-[![](https://visitcount.itsvg.in/api?id=arnav7777&icon=0&color=2)]()
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 💻 Skills
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arnav7777/arnav7777/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arnav7777/arnav7777/output/github-snake-light.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/arnav7777/arnav7777/output/github-snake-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mrekanayake6/Mrekanayake6/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mrekanayake6/Mrekanayake6/output/github-snake-light.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Mrekanayake6/Mrekanayake6/output/github-snake-light.svg">
 </picture>
+
+---
+
+
+
+🚀 I love building real-world scalable apps and IoT systems
