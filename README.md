@@ -37,7 +37,7 @@
   </a>
 
   <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  
   </a>
 </p>
 
