@@ -20,7 +20,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/Mrekanayake6">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
 
