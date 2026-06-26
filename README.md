@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
 
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="www.linkedin.com/in/lakshan-ekanayake-164909296">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 
