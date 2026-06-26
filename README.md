@@ -36,7 +36,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <a href="https://twitter.com/yourusername">
+  <a href="https://x.com/MR_ekanayake">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>
 </p>
